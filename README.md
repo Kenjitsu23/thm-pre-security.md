@@ -24,6 +24,10 @@ Welcome to my cybersecurity journey! This repository serves as documentation for
     *   *   **Topic 5: SOC Operational Architectures & Triage Guardrails**
     *   *Concepts Mastered:* Incident lifecycle management, alert triage methodologies, and analyzing common analytical failure modes (alert fatigue, contextual misclassification).
     *   *Significance:* Developed the operational mindset needed to handle enterprise incidents safely without causing accidental production downtime.
+    *   *   **Topic 6: SOC Fundamentals Operational Evaluation & Gap Analysis**
+    *   *Execution:* Completed the comprehensive SOC Fundamentals examination module. 
+    *   *Outcome:* Identified 6 core conceptual gaps regarding enterprise triage constraints and specific operational protocol mappings.
+    *   *Remediation Plan:* Conducted a post-mortem review of incorrect nodes; actively documented systemic errors to align my testing baseline with industry compliance standards before re-testing.
 
 ## 🛡️ Core Competencies Under Construction
 - *Networking:* TCP/IP State Mechanics, Routing vs Switching
