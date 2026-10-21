@@ -21,6 +21,9 @@ Welcome to my cybersecurity journey! This repository serves as documentation for
     *   *   **Topic 4: Intermediate Data Filtering & Stream Manipulation**
     *   *Concepts Mastered:* Regular expression searching using `grep`, text output streaming via standard data pipes (`|`), and advanced file viewing utilities (`less`, `head`, `tail`).
     *   *Significance:* Developed the essential skills required to isolate indicators of compromise (IoCs) and anomalous records within massive, production-scale log files.
+    *   *   **Topic 5: SOC Operational Architectures & Triage Guardrails**
+    *   *Concepts Mastered:* Incident lifecycle management, alert triage methodologies, and analyzing common analytical failure modes (alert fatigue, contextual misclassification).
+    *   *Significance:* Developed the operational mindset needed to handle enterprise incidents safely without causing accidental production downtime.
 
 ## 🛡️ Core Competencies Under Construction
 - *Networking:* TCP/IP State Mechanics, Routing vs Switching
