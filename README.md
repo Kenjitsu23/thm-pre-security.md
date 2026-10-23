@@ -28,6 +28,23 @@ Welcome to my cybersecurity journey! This repository serves as documentation for
     *   *Execution:* Completed the comprehensive SOC Fundamentals examination module. 
     *   *Outcome:* Identified 6 core conceptual gaps regarding enterprise triage constraints and specific operational protocol mappings.
     *   *Remediation Plan:* Conducted a post-mortem review of incorrect nodes; actively documented systemic errors to align my testing baseline with industry compliance standards before re-testing.
+    *   *   **Topic 7: Phishing Incident Diagnostics & Operational Time Constraints**
+    *   *Lab Execution:* Initiated interactive forensic analysis on an enterprise phishing alert simulation.
+    *   *Operational Insight:* Analyzed email header metadata strings under active case management time constraints.
+    *   *Remediation:* Iterating on my triage methodology to isolate sender IP domains and attachment artifacts faster during tomorrow's 6:00 AM sprint.
+    *   *   **Topic 8: Cognitive Data Filtering & Incident Ingestion Realities**
+    *   *Analysis:* Evaluated corporate incident telemetry structures and text-heavy email metadata streams.
+    *   *Focus:* Implementing targeted visual data-tunneling techniques to isolate critical indicator strings faster during high-volume alert processing.
+    *   *   **Topic 8: Cognitive Data Filtering & Incident Ingestion Realities**
+    *   *Analysis:* Evaluated corporate incident telemetry structures and text-heavy email metadata streams.
+    *   *Focus:* Implementing targeted visual data-tunneling techniques to isolate critical indicator strings faster during high-volume alert processing.
+    *   *   **Topic 9: Automated Exploit Scripting & Infrastructure Compromise**
+    *   *Practical Application:* Programmed custom JavaScript automation scripts inside the Bitburner execution environment to manage distributed Hacknet infrastructure.
+    *   *Execution Success:* Bypassed simulated network architecture firewalls/proxywalls and successfully integrated into decentralized operational nodes (Entropy Framework).
+    *   *Significance:* Mastered asynchronous task loops and endpoint pivoting mechanics essential for automating threat-hunting tasks.
+    *   *   **Topic 10: Script Integration & Code Reverse-Engineering**
+    *   *Methodology:* Successfully deployed foundational JavaScript/NS2 task automation templates within an isolated terminal environment to manage Hacknet nodes.
+    *   *Analysis:* Focused on reverse-engineering script structures (loops, execution parameters) to transition from tutorial execution to custom configuration tracking.
 
 ## 🛡️ Core Competencies Under Construction
 - *Networking:* TCP/IP State Mechanics, Routing vs Switching
