@@ -50,3 +50,18 @@ Welcome to my cybersecurity journey! This repository serves as documentation for
 - *Networking:* TCP/IP State Mechanics, Routing vs Switching
 - *Operating Systems:* Linux Command Line Interface (CLI)
 - *Tools:* OpenVPN, VirtualBox
+## 🤖 Automation Infrastructure & Scripting Showcases
+
+### Project: Netscript Task Automation (`hacknet-monitor.js`)
+*   **Language:** JavaScript (Netscript v2 Framework)
+*   **Operational Intent:** Deploys an asynchronous loop to dynamically monitor and exploit target system memory states.
+
+```javascript
+  }
+/** @param {NS} ns */
+export async function main(ns) {
+  while (true) {
+    await ns.hack("n00dles");
+  }
+}
+```
